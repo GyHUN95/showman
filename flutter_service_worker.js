@@ -13,7 +13,7 @@ const RESOURCES = {
 "splash/img/light-3x.png": "8bdf2f9bdc7e7ca7719fce39dde98984",
 "splash/img/dark-4x.png": "ebbf1617d9be9813d91409a656cfb7bf",
 "splash/style.css": "f8e8383c64b765de4871c2b23e30b102",
-"main.dart.js": "1ffeefc1ce4467513f67c04a71d84f11",
+"main.dart.js": "4ecb07319ef698b7520db0dfe7e74db5",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "eaed33dc9678381a55cb5c13edaf241d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "3241d1d9c15448a4da96df05f3292ffe",
@@ -36,8 +36,8 @@ const RESOURCES = {
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "c8d2035c2a0a09976a40df56550451ff",
-"index.html": "a21e0fde1b221ba4d80a71e309da11e8",
-"/": "a21e0fde1b221ba4d80a71e309da11e8"
+"index.html": "d5d7fdb87ab14f9b9b6bfae056395680",
+"/": "d5d7fdb87ab14f9b9b6bfae056395680"
 };
 
 // The application shell files that are downloaded before a service worker can
